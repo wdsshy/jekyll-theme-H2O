@@ -1,11 +1,11 @@
 # Site settings 配置站点
-title: '廖柯宇的独立博客'
-description: '昵称悟空，千禧一代，前端开发者/伪极客/灵魂摄影师，热爱技术&设计。很高兴能在这里与你分享我对技术和生活的思考。'
-keyword: '廖柯宇, 廖柯宇的独立博客, 廖柯宇的博客, 前端, 前端开发, 前端博客, javascript, vuejs, nodejs, 设计'
-url: 'https://dyzsoft.github.io/jekyll-theme-H2O/' # your host
+title: '王东升的独立博客'
+description: '昵称Panda'
+keyword: '王东升, 王东升的独立博客, 王东的博客, 嵌入式BSP包的移植、ARM、X86、MIPS、STM32'
+url: 'https://www.redmingtech.com' # your host
 
 # if you don't need baseurl, you should leave this value blank.
-baseurl: 'https://dyzsoft.github.io/jekyll-theme-H2O/'
+baseurl: 'https://wdsshy.github.io/wdsshy.github.io/'
 
 # Navigation links
 nav:
@@ -17,9 +17,9 @@ footer:
   since: 2017
 
 # Author 配置博主信息
-author: '廖柯宇'
-nickname: '悟空'
-bio: '前端开发者，热爱技术&设计，简单乐观爱创造'
+author: '王东升'
+nickname: 'Panda'
+bio: 'BSP软件包移植，驱动的移植开发，主要驱动I2C、UART、485、CAN、USB、I2S、PCIE、Ethernet、Switch ...'
 avatar: '/assets/img/profile.png'
 
 # Search
@@ -49,10 +49,7 @@ postPatterns: 'circuitBoard'
 # SNS settings 配置社交网站
 # url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
-  weibo: '//weibo.com/lovecolcol'
-  juejin: '//juejin.im/user/57a6f434165abd006159b4cc'
-  instagram: '//www.instagram.com/steveliaocn'
-  github: '//github.com/kaeyleo'
+  github: '//github.com/wdsshy'
 
 # Tags 设置标签
 recommend-tags: true # whether or not display recommend-tags on the sidebar
