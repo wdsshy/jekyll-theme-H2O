@@ -20,7 +20,7 @@ footer:
 author: '王东升'
 nickname: 'Panda'
 bio: 'BSP软件包移植，驱动的移植开发，主要驱动I2C、UART、485、CAN、USB、I2S、PCIE、Ethernet、Switch ...'
-avatar: '/assets/img/hero.png'
+avatar: '/assets/img/profile.png'
 
 # Search
 search: true
