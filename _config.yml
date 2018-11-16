@@ -1,7 +1,7 @@
 # Site settings 配置站点
 title: '王东升的独立博客'
 description: '昵称Panda'
-keyword: '王东升, 王东升的独立博客, 王东升的博客, 嵌入式BSP包的移植、ARM、X86、MIPS、STM32'
+keyword: '王东升, 王东升的独立博客, 王东升的博客, 嵌入式软件开发'
 url: 'https://www.redmingtech.com' # your host
 
 # if you don't need baseurl, you should leave this value blank.
@@ -19,7 +19,7 @@ footer:
 # Author 配置博主信息
 author: '王东升'
 nickname: 'Panda'
-bio: 'BSP软件包移植，驱动的移植开发，主要驱动I2C、UART、485、CAN、USB、I2S、PCIE、Ethernet、Switch ...'
+bio: '嵌入式软件开发'
 avatar: '/assets/img/profile.png'
 
 # Search
