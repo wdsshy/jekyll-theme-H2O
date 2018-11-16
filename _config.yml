@@ -30,15 +30,15 @@ nightMode: true
 
 # Comments 评论功能
 comments:
-  disqus: true
-  disqus_url: 'https://liaokeyu.disqus.com/embed.js'
+  disqus: false
+  #disqus_url: 'https://liaokeyu.disqus.com/embed.js'
 
 # MathJax 公式支持 by Ray-Eldath
 mathjax: true
 
 # Share
 social-share: true
-social-share-items: ['wechat', 'weibo', 'douban', 'twitter']
+social-share-items: ['wechat']
 
 # theme color 主题皮肤
 theme-color: 'pink'  # pink or default
@@ -52,7 +52,7 @@ sns:
   github: '//github.com/wdsshy'
 
 # Tags 设置标签
-recommend-tags: true # whether or not display recommend-tags on the sidebar
+recommend-tags: false # whether or not display recommend-tags on the sidebar
 recommend-condition-size: 12 # a tag will be recommended if the size of it is more than this value
 
 # Build settings
